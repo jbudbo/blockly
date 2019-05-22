@@ -1,4 +1,6 @@
-# Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+# Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 
 Google's Blockly is a web-based, visual programming editor.  Users can drag
